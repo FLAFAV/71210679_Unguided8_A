@@ -1,0 +1,10 @@
+Kopi dituang, ada 2 jalan yang dapat dilalui yaitu kanan dan kiri.
+
+-Kopi melalui jalan sebelah kiri
+Ada dua jalan lagi yaitu kiri dan kanan. Kedua jalan sama sama tertutup sehingga kopi tidak dapat melalui kedua jalan tersebut.
+
+-Kopi melalui jalan sebelah kanan
+Ada tiga jalan yaitu kanan, bawah, dan kiri. Jalan kanan menuju ke cangkir nomor 7, jalan kiri menuju cangkir nomor 5, sedangkan 
+jalan bawah mempunyai ujung buntu. Pertengahan jalan sebelah kanan tertutup. Sehingga kopi hanya dapat melalui jalan yang ke kiri dan memenuhi cangkir nomor 5.
+
+Kesimpulan = Kopi hanya bisa mengisi cangkir nomor 5.
